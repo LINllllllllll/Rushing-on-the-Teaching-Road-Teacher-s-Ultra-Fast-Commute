@@ -1,5 +1,7 @@
 # Rushing on the Teaching Road: Teacher's Ultra-Fast Commute
+
 🔄 [Chinese Version](./README_CN.md)🔄 [English Version](./README.md)
+
 Homework for the Software Development Course of the School of Software Engineering
 
 ## Game Overview
