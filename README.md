@@ -49,11 +49,6 @@ This game - *Rushing on the Teaching Road: Teacher's Commute* is a training proj
 ### 3. Pause Function
 Press the **Spacebar** to pause the game at any time.
 
-## Screenshots (Add Your Images Here)
-| Game Login Interface | Land Level Gameplay | Air Level Gameplay |
-|----------------------|---------------------|--------------------|
-| ![Login Interface](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/login.png) | ![Land Level](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/land_level.png) | ![Air Level](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/air_level.png) |
-
 ## Notes
 ### 1. Game Launch
 - Ensure all game resource files (e.g., textures, audio, configuration files) are stored in their original directories relative to `Game.exe`; missing files may cause launch failures or runtime errors.
