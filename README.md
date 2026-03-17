@@ -51,4 +51,15 @@ Press the **Spacebar** to pause the game at any time.
 |----------------------|---------------------|--------------------|
 | ![Login Interface](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/login.png) | ![Land Level](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/land_level.png) | ![Air Level](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/air_level.png) |
 
-## File Structure
+## Notes
+### 1. Game Launch
+- Ensure all game resource files (e.g., textures, audio, configuration files) are stored in their original directories relative to `Game.exe`; missing files may cause launch failures or runtime errors.
+- Double-click `Game.exe` in the packaged folder to start the game directly (no additional installation required).
+
+### 2. Runtime Environment
+- The game relies on **Java Runtime Environment (JRE) 1.8** to run properly.
+- The packaged folder already includes the complete JRE 1.8 environment, so you don’t need to install JRE separately on your system.
+
+### 3. Compatibility
+- Recommended OS: Windows 10/11 (64-bit)
+- Known issue: The game may not run properly on Windows 7 or lower due to JRE compatibility limitations.
