@@ -49,11 +49,6 @@
 ### 3. 暂停功能
 随时按下「空格键」可暂停游戏。
 
-## 游戏截图（在此添加截图）
-| 游戏登录界面 | 陆地关卡玩法 | 空中关卡玩法 |
-|--------------|--------------|--------------|
-| ![登录界面](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/login.png) | ![陆地关卡](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/land_level.png) | ![空中关卡](https://github.com/LINllllllllll/Rushing-on-the-Teaching-Road-Teacher-s-Ultra-Fast-Commute/raw/main/screenshots/air_level.png) |
-
 ## 注意事项
 ### 1. 游戏启动
 - 确保 `Game.exe` 所在目录下的所有游戏资源文件（如贴图、音频、配置文件）保持完整，文件缺失可能导致游戏启动失败或运行异常。
